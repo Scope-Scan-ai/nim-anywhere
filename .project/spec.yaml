@@ -230,3 +230,7 @@ execution:
     target: /home/workbench/
     description: ""
     options: ""
+  - type: host
+    target: /usr/local/host-lib/
+    description: ""
+    options: ""
